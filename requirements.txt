@@ -1,0 +1,4 @@
+pyspark==4.0.4
+py4j==0.10.9.9
+matplotlib
+# Java 17 is also required (Colab: apt install openjdk-17-jdk-headless)

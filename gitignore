@@ -1,0 +1,11 @@
+# data and Spark output: never commit
+*.csv
+*.zip
+*.parquet/
+spark-warehouse/
+metastore_db/
+derby.log
+# python / notebook noise
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
